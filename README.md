@@ -5,6 +5,7 @@ I am building my career in technology with a focus on practical software project
 I am interested in systems that solve real operational problems: workflow tools, backend APIs, smart infrastructure, observability, developer tooling, and AI-assisted automation.
 
 LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)  
+Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)  
 Career progress hub: [career-achievements](https://github.com/LLK99-git/career-achievements)
 
 ## Current Focus
@@ -61,6 +62,14 @@ A public repository where I collect project links, learning progress, and suppor
 - Repository: [career-achievements](https://github.com/LLK99-git/career-achievements)
 - Status: active
 
+### Visual CV Portfolio
+
+A static portfolio landing page that summarizes my technical direction and links to my CV, GitHub, LinkedIn, and project proof.
+
+- Live site: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
+- Repository: [portfolio](https://github.com/LLK99-git/portfolio)
+- Status: active
+
 ### PaperOps
 
 A warehouse and workflow platform concept focused on operational visibility, tracking, and automation.
@@ -103,3 +112,4 @@ Long-term interests and practical work around networking, monitoring, smart home
 
 - LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)
 - GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)
+- Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
